@@ -16,14 +16,4 @@ Hi , There ![](https://user-images.githubusercontent.com/18350557/176309783-0785
 ---
 [![](https://komarev.com/ghpvc/?username=mtritt&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=mtritt&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=mtritt&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=mtritt&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=mtritt&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
